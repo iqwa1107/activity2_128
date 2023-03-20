@@ -4,7 +4,7 @@ using namespace std;
 float persegipanjang(float p, float l) {
 	return p * l;
 }
-
+ 
 float lingkaran(float r) {
 	return 3.14 * r * r;
 }
